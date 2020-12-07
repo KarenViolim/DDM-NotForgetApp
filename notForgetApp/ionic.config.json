@@ -1,0 +1,7 @@
+{
+  "name": "notForgetApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
